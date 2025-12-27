@@ -1,46 +1,46 @@
-## Hi 👋, I'm Maheboob Baig
+# Hi, I’m Maheboob Baig 👋
 
-### Java Full Stack Developer | Bengaluru, India
+**Java Full Stack Developer | Bengaluru, India**
 
-Building scalable and maintainable web applications using Java and modern web technologies.
+I am a Computer Science graduate with strong fundamentals in Java full stack development, focused on building scalable, maintainable, and enterprise-ready web applications. I have hands-on experience with backend development, RESTful services, database integration, and modern frontend technologies. Actively seeking opportunities to start my professional career in the software industry.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering  
-- 💼 Java Full Stack Developer  
-- 🧠 Strong interest in backend development and RESTful services  
-- ☁️ Familiar with AWS basics and SAP Integration technologies  
-- 🎯 Actively seeking opportunities as a fresher to start my software career  
-
-📧 Email: maheboob.baiig@gmail.com
+- 💼 Role: **Java Full Stack Developer**
+- 🔧 Strong focus on backend development and RESTful services
+- ☁️ Familiar with cloud fundamentals and SAP integration technologies
+- 🚀 Fresher actively seeking full-time opportunities in software development
+- 📍 Bengaluru, India  
+- 📧 **Email:** maheboob.baig@gmail.com  
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Technical Skills
 
-**Backend**
+### Backend
 - Java  
 - Spring Boot  
-- Hibernate  
-- REST APIs  
+- Hibernate / JPA  
+- RESTful APIs  
 
-**Frontend**
+### Frontend
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
 
-**Database**
+### Database
 - MySQL  
 
-**Cloud & Integration**
+### Cloud & Integration
 - AWS (EC2, S3, IAM – Basics)  
 - SAP BTP  
 - SAP Integration Suite  
 
-**Tools**
+### Tools & Platforms
 - Git & GitHub  
 - Postman  
 - IntelliJ IDEA  
@@ -51,37 +51,47 @@ Building scalable and maintainable web applications using Java and modern web te
 ## 📌 Projects & Work
 
 ### Web-Based Applications
-- Developed Java-based applications using Spring Boot and MySQL  
-- Implemented RESTful APIs for data handling and business logic  
-- Focused on clean code and modular design  
+- Developed Java-based applications using Spring Boot and MySQL
+- Implemented RESTful APIs for data handling and business logic
+- Followed clean code practices and modular architecture
 
 ### Frontend & JavaScript Projects
-- Built responsive web pages using HTML, CSS, and JavaScript  
-- Worked on React-based UI projects and practice assignments  
+- Built responsive web interfaces using HTML, CSS, and JavaScript
+- Worked on React-based UI projects and practice assignments
 
 ### Academic & Practice Projects
-- Project-based learning during coursework and internships  
-- Hands-on implementation of full stack concepts  
-
-> Some projects are practice and learning-focused and may not have full public source code.
-
----
-
-## 📊 GitHub Overview
-
-- Actively working on repositories  
-- Regular commits and hands-on practice  
-- Focused on improving Java Full Stack skills  
+- Project-based learning through coursework and self-practice
+- Hands-on implementation of full stack concepts
+- Some projects are learning-focused and may not have full public source code
 
 ---
 
-## 🚀 Currently Learning
+## 📂 Highlighted Repositories
 
-- Advanced Java & Spring Boot  
-- Backend architecture concepts  
-- Cloud fundamentals  
-- Enterprise application development  
+- 'Online Voting System' – Web application built using frontend technologies  
+- 'Pokedex Project' – JavaScript-based project consuming public APIs  
+- 'SAP CICD Demo' – Practice repository related to SAP and CI/CD concepts  
+- 'Portfolio' – Personal portfolio showcasing projects and skills  
+
+*(More repositories available on my GitHub profile)*
 
 ---
 
-⭐ Thank you for visiting my GitHub profile.
+## 📊 GitHub Activity
+
+- Actively working on repositories and improving code quality
+- Regular commits and continuous hands-on practice
+- Focused on strengthening Java Full Stack development skills
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java & Spring Boot concepts  
+- Backend architecture and design principles  
+- Cloud fundamentals and enterprise application development  
+
+---
+
+⭐ Thank you for visiting my GitHub profile.  
+Feel free to explore my repositories and connect with me.
