@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maheboob-baig15/Maheboob-baig15/main/developer.gif" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheboob-baig15&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
+
 
 
 
