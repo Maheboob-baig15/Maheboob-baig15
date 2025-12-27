@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheboob-baig15&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Maheboob+Baig;Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL" />
 </p>
+
 
 
 
