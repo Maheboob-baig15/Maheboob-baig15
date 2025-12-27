@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Maheboob+Baig;Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Actively+Seeking+Software+Development+Roles" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897446-5d8e6f7a-6c3c-4a8f-b7b6-22b1b6b9a4d1.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
 </p>
+
 
 
 
