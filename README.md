@@ -1,104 +1,87 @@
-# Hi, I'm Maheboob Baig 👋
+## Hi 👋, I'm Maheboob Baig
 
-## Java Full Stack Developer
+### Java Full Stack Developer | Bengaluru, India
 
-I am a **Java Full Stack Developer** with a strong foundation in building scalable, secure, and maintainable web applications.  
-I am passionate about backend development, clean architecture, and real-world problem solving.
-
-Currently seeking **entry-level software engineering opportunities** where I can contribute, learn, and grow in a professional environment.
+Building scalable and maintainable web applications using Java and modern web technologies.
 
 ---
 
-## 🔹 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering
-- 💻 Java Full Stack Developer
-- 🔧 Experienced with RESTful APIs and database-driven applications
-- ☁️ Familiar with AWS basics and SAP Integration technologies
-- 🎯 Career goal: Build reliable, enterprise-grade software solutions
+- 🎓 B.Tech in Computer Science and Engineering  
+- 💼 Java Full Stack Developer  
+- 🧠 Strong interest in backend development and RESTful services  
+- ☁️ Familiar with AWS basics and SAP Integration technologies  
+- 🎯 Actively seeking opportunities as a fresher to start my software career  
 
-📍 Bengaluru, India  
-📧 Email: **maheboob.baiig@gmail.com**
+📧 Email: maheboob.baiig@gmail.com
 
 ---
 
-## 🔹 Technical Skills
+## 🛠️ Tech I Use
 
-**Programming Languages**
-- Java
-- JavaScript
-- SQL
+**Backend**
+- Java  
+- Spring Boot  
+- Hibernate  
+- REST APIs  
 
-**Backend Technologies**
-- Spring Boot
-- Hibernate
-- RESTful APIs
+**Frontend**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
 
-**Frontend Technologies**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-
-**Databases**
-- MySQL
+**Database**
+- MySQL  
 
 **Cloud & Integration**
-- AWS (EC2, S3, IAM – Basics)
-- SAP BTP
-- SAP Integration Suite
+- AWS (EC2, S3, IAM – Basics)  
+- SAP BTP  
+- SAP Integration Suite  
 
-**Tools & Platforms**
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
-
----
-
-## 🔹 Projects & Practical Work
-
-### 📌 Web-Based Applications
-- Developed multiple web applications using **Java, Spring Boot, and MySQL**
-- Implemented REST APIs for data handling and business logic
-- Focused on clean code, modular design, and maintainability
-
-### 📌 Frontend & JavaScript Projects
-- Built interactive UI projects using **HTML, CSS, and JavaScript**
-- Created responsive layouts and dynamic features
-- Worked on assignments and practice projects to strengthen core concepts
-
-### 📌 SAP & Integration Practice
-- Hands-on exposure to **SAP Integration Suite**
-- Designed basic integration flows and explored enterprise integration concepts
-
-> *Some projects are learning-focused and may not have full public source code.  
-> These projects represent hands-on practice and applied understanding of technologies.*
+**Tools**
+- Git & GitHub  
+- Postman  
+- IntelliJ IDEA  
+- VS Code  
 
 ---
 
-## 🔹 GitHub Activity
+## 📌 Projects & Work
 
-- Actively maintaining and improving repositories
-- Regular hands-on coding and experimentation
-- Focused on strengthening Java backend and full stack skills
+### Web-Based Applications
+- Developed Java-based applications using Spring Boot and MySQL  
+- Implemented RESTful APIs for data handling and business logic  
+- Focused on clean code and modular design  
 
----
+### Frontend & JavaScript Projects
+- Built responsive web pages using HTML, CSS, and JavaScript  
+- Worked on React-based UI projects and practice assignments  
 
-## 🔹 Currently Learning
+### Academic & Practice Projects
+- Project-based learning during coursework and internships  
+- Hands-on implementation of full stack concepts  
 
-- Advanced Java & Spring Boot
-- Backend architecture and best practices
-- Cloud fundamentals and CI/CD concepts
-- Improving problem-solving and system design skills
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/Maheboob-baig15
-- Email: maheboob.baiig@gmail.com
+> Some projects are practice and learning-focused and may not have full public source code.
 
 ---
 
-⭐ Thank you for visiting my profile.
+## 📊 GitHub Overview
+
+- Actively working on repositories  
+- Regular commits and hands-on practice  
+- Focused on improving Java Full Stack skills  
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced Java & Spring Boot  
+- Backend architecture concepts  
+- Cloud fundamentals  
+- Enterprise application development  
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
