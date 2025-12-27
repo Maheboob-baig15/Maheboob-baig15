@@ -12,6 +12,8 @@ Computer Science graduate with strong fundamentals in **Java full stack developm
 Hands-on experience in **backend development, RESTful services, database integration**, and modern frontend technologies.  
 Actively seeking opportunities to begin my professional career in the software industry.
 
+🌐 **Portfolio:** https://maheboob-portfolio.vercel.app/
+
 ---
 
 ## 👨‍💻 About Me
@@ -105,10 +107,18 @@ Actively seeking opportunities to begin my professional career in the software i
 
 ---
 
-### 📬 Let’s Connect
+## 🔗 Let’s Connect
 
 - **Email:** maheboob.baig@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/maheboob-baig15  
+- **Portfolio:** https://maheboob-portfolio.vercel.app/
+
+---
+
+## 🌐 Social Presence (Optional)
+
+- **Instagram:** https://www.instagram.com/maheboobbaig_15/
+- **Facebook:** https://www.facebook.com/share/12BYepuwfrw/
 
 ---
 
